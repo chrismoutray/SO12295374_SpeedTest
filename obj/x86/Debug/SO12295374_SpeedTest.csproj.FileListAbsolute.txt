@@ -1,0 +1,5 @@
+C:\Source\samples\SO12295374_SpeedTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Source\samples\SO12295374_SpeedTest\bin\Debug\SO12295374_SpeedTest.exe
+C:\Source\samples\SO12295374_SpeedTest\bin\Debug\SO12295374_SpeedTest.pdb
+C:\Source\samples\SO12295374_SpeedTest\obj\x86\Debug\SO12295374_SpeedTest.exe
+C:\Source\samples\SO12295374_SpeedTest\obj\x86\Debug\SO12295374_SpeedTest.pdb
